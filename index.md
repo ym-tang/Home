@@ -5,7 +5,7 @@ I am a master student at Capital Normal University, China.
 
 **Name:** 唐一萌 (Yimeng Tang)
 
-**Current Interests:** Topics related to Langlands programme, especially p-adic modular forms and elliptic curves. In the next semester, I plan to learn some p-adic Hodge theory.
+**Current Interests:** Arithmetic topics related to Langlands programme, especially p-adic modular forms and elliptic curves. In the next semester, I plan to learn more about p-adic Hodge theory.
  
 **Supervisor:** [A.P Jiangxue Fang](https://math.cnu.edu.cn/FACULTY/qtjs2/szmjs/F/25da50e30000484b8e62417294546fd5.htm)
 

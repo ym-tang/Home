@@ -1,13 +1,21 @@
 ## Yimeng Tang
+I am a master student at Capital Normal University, China.
+
+### Personal information:
+
+**Name:** 唐一萌 (Yimeng Tang)
+
+**Current Interests:** Topics related to Langlands programme, especially p-adic modular forms and elliptic curves. In the next semester, I plan to learn some p-adic Hodge theory.
+ 
+**Supervisor:** [A.P Jiangxue Fang](https://math.cnu.edu.cn/FACULTY/qtjs2/szmjs/F/25da50e30000484b8e62417294546fd5.htm)
+
+**E-mail:** yimeng.tang.math@gmail.com
+
+### [Education Background](https://ym-tang.github.io/Teaching/)
+### [Mathematical Background](https://ym-tang.github.io/Mathematical Background/)
+### [Seminars and Conferences](https://ym-tang.github.io/Seminars and Conferences/)
+### [Talks](https://ym-tang.github.io/Talks/)
 
 
-##Education backgroud
-
-Now I am a sophomore master student at Capital Normal University. And the following two universities I get educated from both locate in China.
-•	Capital Normal University (CNU)                                      (ongoing)09/2020-06/2023  department of mathematics for master’s degree                                                 GPA: 4.05/5 supervisor: Jiangxue Fang (fangjiangxue@gmail.com)
-•	Hohai University (HHU)                                                                           09/2014-06/2018 department of material science for bachelor’s degree
-
-
-You can use the [editor on GitHub](https://github.com/ym-tang/ym-tang.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
+![v2-6fe879b650da6caa23c3078ece271f13_r](https://user-images.githubusercontent.com/63255508/141781106-2080dbc5-9491-4d99-a611-91a57aaafffc.jpg)
 

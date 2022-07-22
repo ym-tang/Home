@@ -11,10 +11,10 @@ I am a master student at Capital Normal University, China.
 
 **E-mail:** yimeng.tang.math@gmail.com
 
-### [Education Background](https://ym-tang.github.io/Educational/)
-### [Mathematical Background](https://ym-tang.github.io/Mathematical/)
-### [Seminars and Conferences](https://ym-tang.github.io/Seminars/)
-### [Talks and Slides](https://ym-tang.github.io/Talks/)
+### [Education Background](https://ym-tang.github.io/Educational-Background/)
+### [Mathematical Background](https://ym-tang.github.io/Mathematical-Background/)
+### [Seminars and Conferences](https://ym-tang.github.io/Seminars-and-Conferences/)
+### [Talks and Slides](https://ym-tang.github.io/Talks-and-Slides/)
 
 
 

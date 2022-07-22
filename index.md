@@ -1,5 +1,5 @@
 ## Yimeng Tang
-I am a master student at Capital Normal University, China.
+Now I am a master student at Capital Normal University, China.
 
 ### Personal information:
 
